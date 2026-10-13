@@ -1,6 +1,6 @@
 # Credenz — PISB's Annual Technical Fest
 
-**Credenz** is the flagship annual technical fest of the **PICT IEEE Student Branch (PISB)**. It runs tech and non-tech events, from coding and ML to electronics, robotics, puzzles, business and stock-market simulation. This repository is the hub: one place to find every event and its material, edition by edition.
+**Credenz** is the flagship annual technical festival of the **PICT IEEE Student Branch (PISB)**, where participants discover their talents across numerous events. It runs tech and non-tech events, from coding and ML to electronics, robotics, puzzles, business and stock-market simulation. This repository is the hub: one place to find every event and its material, edition by edition.
 
 🌐 [credenz.co.in](https://www.credenz.co.in/) · 🚀 [Credenz Tech Dayz (CTD) '26](https://ctd26.vercel.app/) · 📸 [Photos and memories](https://github.com/PICT-IEEE-Student-Branch/memories)
 
@@ -35,7 +35,7 @@ The theme was *Stranger Things* ("The Upside Down awaits"). The main events ran 
 
 ## Credenz Tech Dayz (CTD)
 
-PISB's **Credenz Tech Dayz**. The CTD 2026 site is [ctd26.vercel.app](https://ctd26.vercel.app/).
+**Credenz Tech Dayz** is PISB's second flagship event, held every year alongside the IEEE membership drive. The CTD 2026 site is [ctd26.vercel.app](https://ctd26.vercel.app/).
 
 | Edition | Material |
 |---|---|
